@@ -233,8 +233,7 @@ button:focus{
             box-shadow: 0px 0px 5px 0px rgba(168, 157, 157, 0.31);
     padding: 52px 97px;
     margin: -101px;
-    margin-right: -191px;
-    margin-left: -191px;
+    width: 152%;
   }
 .service .thumbnail:hover{
       -webkit-box-shadow: 2px 5.66px 20px 0px rgba(136, 136, 136, 0.2);
